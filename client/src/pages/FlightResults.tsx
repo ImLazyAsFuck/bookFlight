@@ -1,6 +1,6 @@
 import React from "react";
 
-const FlightResults = () => {
+const FlightResults: React.FC = () => {
   return <div>FlightResults</div>;
 };
 
